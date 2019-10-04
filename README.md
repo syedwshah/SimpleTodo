@@ -36,7 +36,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-As someone who has been building mobile apps mostly through the use of JavaScript libraries/frameworks such as React, it was a bit challenging at first to get acclimated with Java, something I haven't touched in a few years. Thankfully the tutorials were very easy to follow and any concerns I had with writing Java prior to starting the course became a minor issue. It was also great to learn how lightning fast it can be to build a front end with Android Studio.
+It was great to learn how lightning fast it can be to build a front end with Android Studio. As someone who has been building mobile apps through JavaScript libraries/frameworks such as React-Native, it was a bit challenging at first to get acclimated with Java. Thankfully the tutorials were very easy to follow and my concerns became minor issues. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
