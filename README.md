@@ -39,8 +39,6 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 It was great to learn how lightning fast it can be to build a front end with Android Studio. As someone who has been building mobile apps through JavaScript libraries/frameworks such as React-Native, it was a bit challenging at first to get acclimated with Java. Thankfully the tutorials were very easy to follow and my concerns became minor issues. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
