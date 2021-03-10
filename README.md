@@ -26,11 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='todoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='todoApp.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 Here's a walthrough of implemented edit feature:
 
-<img src='todoEdit.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='todoEdit.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
